@@ -1,0 +1,5 @@
+2026-09-24 22:35:00.822452+05:30 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * FROM COURSES ENROLLMENTS \000d\000a\000d\000a[*]truncate table COURSES"; SQL statement:
+SELECT * FROM COURSES ENROLLMENTS 
+
+truncate table COURSES [42000-232]
